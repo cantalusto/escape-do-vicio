@@ -392,7 +392,7 @@ export const translations = {
     instruction5: 'Discover strategies to escape addiction',
     challengesTitle: 'Challenges:',
     instructions: 'Instructions',
-    instructionsContent: 'Complete the 5 challenges to unlock all locks and escape addiction. Each challenge teaches something important about the dangers of vapes.',
+    instructionsContent: 'Complete the 8 challenges to unlock all locks and escape addiction. Each challenge teaches something important about the dangers of vapes.',
     
     // Part 2 Challenges
     part2Challenge1Title: 'Lung Capacity',
