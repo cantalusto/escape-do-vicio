@@ -161,7 +161,7 @@ export const translations = {
     instruction5: 'Descubra estratégias para escapar do vício',
     challengesTitle: 'Desafios:',
     instructions: 'Instruções',
-    instructionsContent: 'Complete os 5 desafios para desbloquear todos os cadeados e escapar do vício. Cada desafio ensina algo importante sobre os perigos dos vapes.',
+    instructionsContent: 'Complete os 8 desafios para desbloquear todos os cadeados e escapar do vício. Cada desafio ensina algo importante sobre os perigos dos vapes.',
     
     // Part 2 Challenges
     part2Challenge1Title: 'Capacidade Pulmonar',
